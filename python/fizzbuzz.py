@@ -1,11 +1,11 @@
 i = 1
 while i < 101:
     if i % 15 == 0:
-        print("Fizz buzz!")
+        print("Fizz Buzz!")
     elif i % 3 == 0:
         print("Fizz!")
     elif i % 5 == 0:
-        print("buzz!")
+        print("Buzz!")
     else:
         print(i)
     
